@@ -25,6 +25,8 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 email:admin@gmail.com
 pass:76313065
 
+DONT FORGET TO ADD THE EXPORT SQL FILE TO OPEN THE ADMIN PANEL
+
 ## Learning Laravel
 
 Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
